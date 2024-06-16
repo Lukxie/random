@@ -59,6 +59,11 @@
             "url": "https://play.sas-media.ru/play_256",
             "title": "Noise FM",
             "name": "Noise FM"
+        },
+         {
+            "url": "http://93.171.182.253:8000/anime",
+            "title": "OtakuFM",
+            "name": "Otaku FM"
         }
     ]
 }
